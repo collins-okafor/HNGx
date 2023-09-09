@@ -1,0 +1,11 @@
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\api.exe
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\api.dll
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\api.deps.json
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\api.runtimeconfig.json
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\api.pdb
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cokafor\Documents\HNGx\StageOneTask\HNGx\api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
