@@ -18,7 +18,7 @@ namespace api.Controllers
             userDetail.Current_day = DateTime.Now.ToString("dddd");
             userDetail.Utc_time = DateTime.UtcNow;
             userDetail.Track = track;
-            userDetail.Github_file_url = "https://github.com/collins-okafor/HNGx";
+            userDetail.Github_file_url = "https://github.com/collins-okafor/HNGx/blob/main/api/Controllers/UserController.cs";
             userDetail.Github_repo_url = "https://github.com/collins-okafor/HNGx";
             userDetail.Status_code = 200;
             return Ok(userDetail);
